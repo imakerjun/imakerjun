@@ -1,16 +1,36 @@
 <h1>
-  안녕하세요 👋🏼  <br/>
-  밝은 에너지로 함께 성장하는 '환경'을 만드는<br/>
-  메이커준입니다
+  안녕하세요 👋🏼 <br/>
+  밝은 에너지로 함께 성장하는 <br/>
+  '환경'을 만드는 메이커준입니다
 </h1>
 
-
 <br/>
 
-# 😆 초간단 소개
-[프로필](https://makerjun.com) | [블로그](blog.makerjun.com) | [링크드인](https://www.linkedin.com/in/imakerjun/) | [인스타그램](https://www.instagram.com/imakerjun/) | [페이스북](https://www.facebook.com/imakerjun)
+# 😆 지금 이런걸 하고 있어요
+👨🏻‍🏫 2021.09 우아한형제들에서 [우아한테크코스](https://woowacourse.github.io/) 프론트엔드 교육과정을 담당하고 있어요
 
-<br/>
+<a href="https://blog.makerjun.com" target="_blank">
+  <img src="https://img.shields.io/badge/Profile-f9af00?style=flat-square&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://blog.makerjun.com" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
+
+<a href="https://blog.makerjun.com" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</a>
+
+<a href="https://blog.makerjun.com" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+
+<a href="https://blog.makerjun.com" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+</a>
+
+
+<br/><br/>
 
 # ☕  메이커준의 Git 활동
 ```
