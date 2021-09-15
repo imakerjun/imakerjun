@@ -8,7 +8,7 @@
 ## 😆 지금 이런걸 하고 있어요
 👨🏻‍🏫 2021.09 우아한형제들에서 [우아한테크코스](https://woowacourse.github.io/) 프론트엔드 교육과정을 담당하고 있어요
 
-<a href="https://blog.makerjun.com" target="_blank">
+<a href="https://makerjun.com" target="_blank">
   <img src="https://img.shields.io/badge/Profile-f9af00?style=flat-square&logo=About.me&logoColor=white"/>
 </a>
 
@@ -16,15 +16,15 @@
   <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
-<a href="https://blog.makerjun.com" target="_blank">
+<a href="https://www.linkedin.com/in/imakerjun/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 
-<a href="https://blog.makerjun.com" target="_blank">
+<a href="https://www.instagram.com/imakerjun/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://blog.makerjun.com" target="_blank">
+<a href="https://www.facebook.com/imakerjun" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 </a>
 
