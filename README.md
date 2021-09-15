@@ -1,7 +1,3 @@
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F12d2048a-3f7c-4a1e-93da-959cca9a78a2%2F%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A5%E1%84%8C%E1%85%AE%E1%86%AB-%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.jpg&blockId=0d932c4e-1807-4d29-a551-b8550deeef6a&width=3600)
-
-<br/>
-
 <h1>
   안녕하세요 👋🏼  <br/>
   밝은 에너지로 함께 성장하는 '환경'을 만드는<br/>
