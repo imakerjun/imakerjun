@@ -6,7 +6,7 @@
 </h1>
 
 ## 😆 지금 이런걸 하고 있어요
-👨🏻‍🏫 2021.09 우아한형제들에서 [우아한테크코스](https://woowacourse.github.io/) 프론트엔드 교육과정을 담당하고 있어요
+👨🏻‍🏫 2022 우아한형제들에서 [우아한테크코스](https://woowacourse.github.io/) 프론트엔드 교육과정을 담당하고 있어요
 
 <a href="https://makerjun.com" target="_blank">
   <img src="https://img.shields.io/badge/Profile-f9af00?style=flat-square&logo=About.me&logoColor=white"/>
