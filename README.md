@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/72922397/133402101-538db69e-0b1f-4f5c-8aeb-8339c681c38d.png)
+![image](https://user-images.githubusercontent.com/72922397/180100600-429ec380-4ea6-4132-8cb7-dbd53fa2a48b.png)
 
 <h1>
 안녕하세요 👋🏼 <br/>
